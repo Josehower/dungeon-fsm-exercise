@@ -19,7 +19,7 @@ Dungeon FSM Exercise is a text-based Node.js game where you explore a dungeon, i
 2. Navigate to the project folder:
 
    ```bash
-   cd dungeon-explorer
+   cd dungeon-fsm-exercise
    ```
 
 3. Install dependencies:
