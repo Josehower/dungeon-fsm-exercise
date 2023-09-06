@@ -33,7 +33,7 @@ Dungeon FSM Exercise is a text-based Node.js game where you explore a dungeon, i
 1. Start the game:
 
    ```bash
-   node index.js
+   pnpm start
    ```
 
 2. Follow on-screen instructions to explore the dungeon, pick up items, and face challenges.

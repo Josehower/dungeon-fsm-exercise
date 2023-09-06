@@ -1,5 +1,5 @@
-function greta(name: string) {
+function greet(name: string) {
   console.log(`Hello, ${name}!`);
 }
 
-greta('World');
+greet('World');
